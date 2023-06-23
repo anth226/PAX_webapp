@@ -7,7 +7,7 @@
 node_modules/
 dist/
 #  asset file files
-public/asset/
+public/
 
 # Compiled Java class files
 *.class
@@ -17,6 +17,8 @@ public/asset/
 
 # Log files
 *.log
+# next build  files
+.next
 
 # Package files
 *.jar
