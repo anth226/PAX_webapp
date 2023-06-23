@@ -6,6 +6,8 @@
 # Node artifact files
 node_modules/
 dist/
+#  asset file files
+public/asset/
 
 # Compiled Java class files
 *.class
@@ -50,4 +52,5 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
 

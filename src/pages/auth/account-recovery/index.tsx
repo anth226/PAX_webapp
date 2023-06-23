@@ -42,8 +42,8 @@ function AccountRecovery() {
             <Box className="selectEmail">
               <Box className="innerSelectEmail">
                 <select className="selectEmailArea">
-                  <option>zxrajib@gmail.com</option>
-                  <option>zxrajib1@gmail.com</option>
+                  <option>alamin@gmail.com</option>
+                  <option>alamin@gmail.com</option>
                 </select>
                 <span><AccountCircleIcon/></span>
               </Box>              

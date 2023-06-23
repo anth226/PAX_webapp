@@ -32,6 +32,7 @@ function SignIn() {
                 height={50}
                 alt="logo"
               />
+              
             </Box>
             <Box className="headerWrapper">
               <h3>Sign in</h3>
